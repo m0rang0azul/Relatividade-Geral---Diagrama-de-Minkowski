@@ -104,7 +104,7 @@ Esta é a parte conceitualmente mais profunda — e a que costuma dar o nó na c
 
 Imagine um observador $\bar{O}$ viajando a uma velocidade $v$, munido de um relógio de luz, o observador dispara um fóton do relógio e observa o fóton ser emitido, refletido e coletado. Como devem ser traçados os eventos de emissão, reflexão e recepção do fóton no diagrama espaço-tempo do próprio $\bar{O}$?
 
-Lembre-se que para  $\bar{O}$ ele está parado e para responder essa pergunta precisamos analisar a sequência de eventos:
+Lembre-se que para  $\bar{O}$ ele está parado, para responder essa pergunta precisamos analisar a sequência de eventos:
 
 1. O viajante $\bar{O}$ dispara um fóton de sua origem no tempo $\bar{t} = -2\text{ m}$ (**Evento $\xi$**).
 2. A luz viaja a 45°, bate no espelho do relógio e reflete (**Evento $\mathcal{P}$**).
