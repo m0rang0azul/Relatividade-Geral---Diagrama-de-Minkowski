@@ -12,7 +12,7 @@ Imagine o relógio mais simples possível: **dois espelhos paralelos** e um **pu
 
 Por que usamos a luz? Porque, pelo postulado de Einstein, **a velocidade da luz é uma constante absoluta** — ela é sempre a mesma para qualquer observador, não importa o quão rápido ele esteja se movendo. Por isso, um relógio que usa a luz é o único instrumento que mede o tempo de forma "pura", diretamente ligada à estrutura do universo.
 
-![Relógio de luz](assets/relogio-de-luz-v2.gif)
+![Relógio de luz](relogio-de-luz-v2.gif)
 
 ---
 
@@ -73,7 +73,7 @@ $$\text{inclinação} = \frac{dt}{dx} = \frac{1}{v}$$
 
 Como para a luz um metro percorrido equivale a um metro de tempo, sua velocidade permanece adimensional ($c = 1$), e por isso sua inclinação nesse diagrama é sempre de **45°**.
 
-![Diagrama de espaço-tempo](assets/figura-1-1.gif)
+![Diagrama de espaço-tempo](figura-1-1.gif)
 
 ---
 
@@ -83,7 +83,7 @@ Esta é a parte conceitualmente mais profunda — e a que costuma dar o nó na c
 
 Imagine um observador $\bar{O}$ viajando a uma velocidade $v$, munido de um relógio de luz. Como devem ser traçados os eventos de emissão, reflexão e recepção do fóton no diagrama espaço-tempo do próprio $\bar{O}$?
 
-![Diagrama do referencial do viajante](assets/figura-1-3.gif)
+![Diagrama do referencial do viajante](figura-1-3.gif)
 
 Para responder, vamos analisar a sequência de eventos:
 
@@ -95,7 +95,7 @@ Como a velocidade da luz é constante, o viajante sabe que a reflexão ($\mathca
 
 Para $\bar{O}$, a sua origem $(0,0)$ e o Evento $\mathcal{P}$ aconteceram **no mesmo instante**. Se traçarmos uma linha reta unindo a origem ao Evento $\mathcal{P}$, **essa linha é o próprio eixo espacial $\bar{x}$ de $\bar{O}$**!
 
-![Construção do eixo espacial inclinado](assets/figura-1-4.gif)
+![Construção do eixo espacial inclinado](figura-1-4.gif)
 
 ### O choque de realidades
 
@@ -119,13 +119,13 @@ Vamos focar nos itens (a) e (c), que ilustram bem a lógica dos diagramas.
 
 ### (a) A linha de universo de um relógio parado
 
-![Exercício 1.3(a) — linha de universo em x = 1 m](assets/exercicio-1-3-a.png)
+![Exercício 1.3(a) — linha de universo em x = 1 m](exercicio-1-3-a.png)
 
 Um objeto parado em $x=1\text{ m}$ no referencial de $O$ nunca muda de posição espacial — ele só "anda" no tempo. No diagrama isso é simplesmente uma **reta vertical em $x=1$**, paralela ao eixo $t$, para qualquer valor de $t$. É o caso mais simples de linha de universo: velocidade zero corresponde a uma reta vertical (perpendicular ao eixo espacial) neste gráfico, já que aqui o tempo corre na vertical.
 
 ### (c) Os eixos de um observador em movimento
 
-![Exercício 1.3(c) — eixos t-barra e x-barra para v = 0,5](assets/exercicio-1-3-c.png)
+![Exercício 1.3(c) — eixos t-barra e x-barra para v = 0,5](exercicio-1-3-c.png)
 
 Aqui aplicamos exatamente a lógica da Seção 4, agora para uma velocidade genérica $v$:
 
