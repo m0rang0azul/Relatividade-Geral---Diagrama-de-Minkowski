@@ -37,30 +37,31 @@ A conclusão física é inevitável:
 ### Quanto o tempo dilata, exatamente?
 
 O argumento geométrico acima pode virar uma fórmula usando o teorema de Pitágoras. Chame de $L$ a distância entre os espelhos e de $\Delta \bar t$ o tempo de um "tique-taque" completo medido por quem carrega o relógio ($\bar O$). Nesse referencial a luz percorre $2L$, então $c \Delta \bar t = 2L$.
+Para o observador parado $O$, durante o tempo $\Delta t$ o relógio se deslocou uma distância $v\Delta t$. O caminho da luz é a hipotenusa de um triângulo retângulo com perna vertical $L$ e perna horizontal $v\Delta t/2$ (metade do percurso horizontal, referente só à subida ou só à descida):
 
 <p align="center">
   <img src="triangulo-pitagoras.png" alt="Triângulo do relógio de luz" width="300">
 </p>
 
-Para o observador parado $O$, durante o tempo $\Delta t$ o relógio se deslocou uma distância $v\Delta t$. O caminho da luz é a hipotenusa de um triângulo retângulo com perna vertical $L$ e perna horizontal $v\Delta t/2$ (metade do percurso horizontal, referente só à subida ou só à descida):
-
 $$\left(\frac{c \Delta t}{2}\right)^2 = L^2 + \left(\frac{v \Delta t}{2}\right)^2$$
 
 Substituindo $L = c \Delta \bar t/2$ e isolando $\Delta t$:
 
-$$\Delta t = \frac{\Delta \bar t}{\sqrt{1 - v^2/c^2}} = \gamma \Delta \bar t, \qquad \gamma \equiv \frac{1}{\sqrt{1-v^2/c^2}}$$
+$$\Delta t = \frac{\Delta \bar t}{\sqrt{1 - v^2/c^2}} = \gamma \Delta \bar t$$
 
-$\gamma$ é o famoso **fator de Lorentz**. Como $\gamma \ge 1$ sempre, temos $\Delta t \ge \Delta \bar t$: o relógio em movimento sempre "atrasa" do ponto de vista de quem o vê passar — confirmando algebricamente o que já havíamos concluído geometricamente.
+$$\gamma \equiv \frac{1}{\sqrt{1-v^2/c^2}}$$
 
-Um exemplo numérico (usando o mesmo $v$ do Exercício 1.3.c de Schutz, para $v = 0{,}5c$,
+$\gamma$ é o famoso **fator de Lorentz**. Como $\gamma \ge 1$ sempre, temos $\Delta t \ge \Delta \bar t$: o relógio em movimento sempre "atrasa" do ponto de vista de quem o vê passar, confirmando algebricamente o que já havíamos concluído geometricamente.
+
+Um exemplo numérico (usando o $v$ do Exercício 1.3.c de Schutz, para $v = 0{,}5c$,
 
 $$\gamma = \frac{1}{\sqrt{1 - 0{,}25}} = \frac{1}{\sqrt{0{,}75}} \approx 1{,}155$$
 
-Ou seja, cada segundo marcado pelo relógio em movimento corresponde a cerca de 1,155 segundo para o observador parado.
+Ou seja, cada segundo marcado pelo relógio em movimento de $\bar{O}$ corresponde a cerca de 1,155 segundo para o observador parado $\{O}$.
 
 ### Um paradoxo aparente: e o contrário também vale?
 
-Uma dúvida natural: se $O$ vê o relógio de $\bar O$ atrasado, $\bar O$ não deveria ver o relógio de $O$ *adiantado*? Não — a dilatação do tempo é **recíproca**: cada observador, em seu próprio referencial, vê o relógio do outro andando mais devagar. Isso não é uma contradição porque simultaneidade não é absoluta (é o que vamos ver na Seção 4): os dois discordam sobre quais eventos acontecem "ao mesmo tempo", e é exatamente essa discordância que permite que os dois relógios pareçam atrasados um em relação ao outro, sem violar lógica alguma. Não existe um referencial "certo", só referenciais diferentes, cada um internamente consistente.
+Uma dúvida natural: se $O$ vê o relógio de $\bar O$ atrasado, $\bar O$ não deveria ver o relógio de $O$ *adiantado*? Não, a dilatação do tempo é **recíproca**: cada observador, em seu próprio referencial, vê o relógio do outro andando mais devagar. Isso não é uma contradição porque a simultaneidade não é absoluta, os dois discordam sobre quais eventos acontecem "ao mesmo tempo", e é exatamente essa discordância que permite que os dois relógios pareçam atrasados um em relação ao outro, sem violar lógica alguma. Não existe um referencial "certo", só referenciais diferentes, cada um internamente consistente.
 
 ---
 
