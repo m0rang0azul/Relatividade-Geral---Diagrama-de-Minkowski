@@ -8,7 +8,7 @@ Luana M. Souza
 
 ---
 
-## 1. O Experimento Mental — O Relógio de Luz
+## 1. O Experimento Mental — Um Relógio de Luz
 
 Imagine o relógio mais simples possível: **dois espelhos paralelos** e um **pulso de luz (fóton)** quicando de cima para baixo entre eles. Cada vez que a luz bate no espelho de cima, o relógio faz *"tique-taque"*.
 
