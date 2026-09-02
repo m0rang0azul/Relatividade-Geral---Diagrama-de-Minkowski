@@ -34,15 +34,15 @@ A conclusão física é inevitável:
 
 ### Quanto o tempo dilata, exatamente?
 
-O argumento geométrico acima pode virar uma fórmula com o teorema de Pitágoras. Chame de $L$ a distância entre os espelhos e de $\Delta \bar t$ o tempo de um "tique-taque" completo medido por quem carrega o relógio ($\bar O$). Nesse referencial a luz percorre $2L$, então $c\,\Delta \bar t = 2L$.
+O argumento geométrico acima pode virar uma fórmula com o teorema de Pitágoras. Chame de $L$ a distância entre os espelhos e de $\Delta \bar t$ o tempo de um "tique-taque" completo medido por quem carrega o relógio ($\bar O$). Nesse referencial a luz percorre $2L$, então $c \Delta \bar t = 2L$.
 
 Para o observador parado $O$, durante o tempo $\Delta t$ o relógio se deslocou uma distância $v\Delta t$. O caminho da luz é a hipotenusa de um triângulo retângulo com perna vertical $L$ e perna horizontal $v\Delta t/2$ (metade do percurso horizontal, referente só à subida ou só à descida):
 
-$$\left(\frac{c\,\Delta t}{2}\right)^2 = L^2 + \left(\frac{v\,\Delta t}{2}\right)^2$$
+$$\left(\frac{c \Delta t}{2}\right)^2 = L^2 + \left(\frac{v \Delta t}{2}\right)^2$$
 
-Substituindo $L = c\,\Delta \bar t/2$ e isolando $\Delta t$:
+Substituindo $L = c \Delta \bar t/2$ e isolando $\Delta t$:
 
-$$\Delta t = \frac{\Delta \bar t}{\sqrt{1 - v^2/c^2}} = \gamma\,\Delta \bar t, \qquad \gamma \equiv \frac{1}{\sqrt{1-v^2/c^2}}$$
+$$\Delta t = \frac{\Delta \bar t}{\sqrt{1 - v^2/c^2}} = \gamma \Delta \bar t, \qquad \gamma \equiv \frac{1}{\sqrt{1-v^2/c^2}}$$
 
 $\gamma$ é o famoso **fator de Lorentz**. Como $\gamma \ge 1$ sempre, temos $\Delta t \ge \Delta \bar t$: o relógio em movimento sempre "atrasa" do ponto de vista de quem o vê passar — confirmando algebricamente o que já havíamos concluído geometricamente.
 
