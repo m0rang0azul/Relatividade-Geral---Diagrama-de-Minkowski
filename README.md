@@ -70,7 +70,7 @@ Uma dúvida natural: se $O$ vê o relógio de $\bar O$ atrasado, $\bar O$ não d
 Como visualizar essa "estranheza" em um gráfico? É aqui que entram os diagramas de espaço-tempo (Seção 1.4 de Bernard Schutz):
 
 - Em vez de desenhar o espaço-tempo em 4 dimensões $(t, x, y, z)$, desenhamos um plano onde o **Tempo ($t$) corre na vertical** e o **Espaço ($x$) corre na horizontal**.
-- Cada ponto nesse papel não é apenas um lugar, mas um **Evento** — algo que acontece em um lugar $x$ e em um instante $t$.
+- Cada ponto nesse papel não é apenas um lugar, mas um **Evento**, algo que acontece em um lugar $x$ e em um instante $t$.
 - O caminho que um objeto percorre ao longo do tempo é a sua **Linha de Universo** (*world line*):
   - Se você estiver parado na estação (referencial $O$), sua linha é uma **reta perfeitamente vertical**.
   - Se você estiver se movendo (como o viajante $\bar{O}$), sua linha é uma **reta inclinada**.
