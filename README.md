@@ -1,4 +1,4 @@
-# Geometria do Espaço-Tempo: O Experimento do Relógio de Luz
+# Geometria do Espaço-Tempo: Diagrama de Minkowski
 
 *Uma introdução visual à dilatação do tempo e aos diagramas de espaço-tempo de Minkowski*
 
