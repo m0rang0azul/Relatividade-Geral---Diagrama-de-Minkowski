@@ -116,17 +116,17 @@ Como a velocidade da luz é constante, o viajante sabe que a reflexão ($\mathca
 
 Para $\bar{O}$, a sua origem $(0,0)$ e o Evento $\mathcal{P}$ aconteceram **no mesmo instante**. Se traçarmos uma linha reta unindo a origem ao Evento $\mathcal{P}$, **essa linha é o próprio eixo espacial $\bar{x}$ de $\bar{O}$**!
 
-<p align="center">
-  <img src="figura-1-4.gif" alt="Construção do eixo espacial inclinado" width="600">
-</p>
-
 ### O choque de realidades
 
-Quando o observador parado $O$ desenha essa mesma cena:
+E quando o observador parado $O$ desenha essa mesma cena?
 
 - Ele vê o espelho se mover, então a ida da luz é mais longa que a volta.
 - Para $O$, o Evento de reflexão $\mathcal{P}$ ocorre em um tempo positivo ($t > 0$), acima da horizontal.
 - Por consequência, o eixo $\bar{x}$ de $\bar{O}$ (a linha que une a origem a $\mathcal{P}$) **fica inclinado para cima** no papel de $O$!
+
+<p align="center">
+  <img src="figura-1-4.gif" alt="Construção do eixo espacial inclinado" width="600">
+</p>
 
 Isso prova graficamente a **Relatividade da Simultaneidade**: o que o viajante $\bar{O}$ considera como seu "tempo zero" não é o que o observador parado $O$ considera como seu "tempo zero". 
 
