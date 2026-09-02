@@ -36,6 +36,10 @@ A conclusão física é inevitável:
 
 O argumento geométrico acima pode virar uma fórmula com o teorema de Pitágoras. Chame de $L$ a distância entre os espelhos e de $\Delta \bar t$ o tempo de um "tique-taque" completo medido por quem carrega o relógio ($\bar O$). Nesse referencial a luz percorre $2L$, então $c \Delta \bar t = 2L$.
 
+<p align="center">
+  <img src="triangulo-pitagoras.png" alt="Triângulo do relógio de luz" width="400">
+</p>
+
 Para o observador parado $O$, durante o tempo $\Delta t$ o relógio se deslocou uma distância $v\Delta t$. O caminho da luz é a hipotenusa de um triângulo retângulo com perna vertical $L$ e perna horizontal $v\Delta t/2$ (metade do percurso horizontal, referente só à subida ou só à descida):
 
 $$\left(\frac{c \Delta t}{2}\right)^2 = L^2 + \left(\frac{v \Delta t}{2}\right)^2$$
@@ -87,15 +91,15 @@ Esta é a parte conceitualmente mais profunda — e a que costuma dar o nó na c
 
 Imagine um observador $\bar{O}$ viajando a uma velocidade $v$, munido de um relógio de luz. Como devem ser traçados os eventos de emissão, reflexão e recepção do fóton no diagrama espaço-tempo do próprio $\bar{O}$?
 
-<p align="center">
-  <img src="figura-1-3.gif" alt="Diagrama do referencial do viajante" width="600">
-</p>
-
-Para responder, vamos analisar a sequência de eventos:
+Lembre-se que para  $\bar{O}$ ele está parado e para responder precisamos analisar a sequência de eventos:
 
 1. O viajante $\bar{O}$ dispara um fóton de sua origem no tempo $\bar{t} = -2\text{ m}$ (**Evento $\mathcal{E}$**).
 2. A luz viaja a 45°, bate no espelho do relógio e reflete (**Evento $\mathcal{P}$**).
 3. A luz volta (também a 45°) e é recebida por $\bar{O}$ no tempo $\bar{t} = +2\text{ m}$ (**Evento $\mathcal{R}$**).
+
+<p align="center">
+  <img src="figura-1-3.gif" alt="Diagrama do referencial do viajante" width="600">
+</p>
 
 Como a velocidade da luz é constante, o viajante sabe que a reflexão ($\mathcal{P}$) **aconteceu exatamente na metade do tempo de viagem**, ou seja, no seu tempo $\bar{t} = 0$.
 
