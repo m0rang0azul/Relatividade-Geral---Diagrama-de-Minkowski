@@ -1,6 +1,7 @@
 # Geometria do Espaço-Tempo: Diagrama de Minkowski
 
 *Uma introdução visual à dilatação do tempo e aos diagramas de espaço-tempo de Minkowski*
+Luana M. Souza
 
 > **Notação:** ao longo do post, $O$ é o referencial *parado* (por exemplo, alguém na estação) e $\bar{O}$ (lê-se "O-barra") é o referencial que *se move* com velocidade $v$ em relação a $O$ (por exemplo, o viajante carregando o relógio de luz). Cada referencial mede o tempo com seu próprio relógio, daí a barra para diferenciar $\bar t$ de $t$.
 
