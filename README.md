@@ -1,7 +1,8 @@
 # Geometria do Espaço-Tempo: Diagrama de Minkowski
 
-*Uma introdução visual à dilatação do tempo e aos diagramas de espaço-tempo de Minkowski*
 Luana M. Souza
+
+*Uma introdução visual à dilatação do tempo e aos diagramas de espaço-tempo de Minkowski*
 
 > **Notação:** ao longo do post, $O$ é o referencial *parado* (por exemplo, alguém na estação) e $\bar{O}$ (lê-se "O-barra") é o referencial que *se move* com velocidade $v$ em relação a $O$ (por exemplo, o viajante carregando o relógio de luz). Cada referencial mede o tempo com seu próprio relógio, daí a barra para diferenciar $\bar t$ de $t$.
 
@@ -158,10 +159,42 @@ Um objeto parado em $x=1\text{ m}$ no referencial de $O$ nunca muda de posição
 Aqui aplicamos exatamente a lógica da Seção 4, agora para uma velocidade genérica $v$:
 
 - O eixo $\bar t$ (reta vermelha) é a **linha de universo da origem de $\bar O$**, o caminho do próprio observador em movimento pelo espaço-tempo. Como $\bar O$ se move segundo $x = vt$, isolando $t$ temos $t = x/v$, uma reta com inclinação $(dt/dx = 1/v) = (1/0{,}5 = 2)$. Por isso a reta vermelha é mais "em pé" que a diagonal de 45° do fóton, quanto mais perto $v$ chega de $c$, mais o eixo $\bar t$ se aproxima dessa diagonal, mas nunca a alcança.
-
+  
 - O eixo $\bar x$ (reta roxa) é a **linha de simultaneidade de $\bar O$**, o conjunto de eventos que $\bar O$ considera acontecer no seu "tempo zero" $\bar t = 0$, construído do mesmo jeito que fizemos com o Evento $\mathcal P$ na Seção 4. Essa reta tem inclinação recíproca à do eixo $\bar t$: $dt/dx = v = 0{,}5$.
 
-Repare na simetria: os dois eixos, $\bar t$ e $\bar x$, ficam "espremidos" em torno da diagonal de 45° do fóton, um de cada lado, e nunca cruzam essa diagonal, não importa o valor de $v$. É a mesma relatividade da simultaneidade da Seção 4, só que generalizada: ali vimos o efeito nascer de um caso concreto (o relógio de luz do observador $\bar O$); aqui vemos a regra geral por trás dele.
+
+Note que a função que descreve $\bar{t}$ é uma função afim, pois a velocidade é constante:
+
+$$\{t} = F(\{x}) = a\{x} + b$$
+
+Como $\bar{x} = \bar{t} = 0$, coincide com $\{x} = \{t} = 0$, temos que $b = 0$. Portanto:
+
+$$\{t} = a\{x}$$
+
+Como a inclinação do eixo do observador $\bar O$ é $a = 2$, obtemos:
+
+$$\boxed{\{t} = 2\{x}}$$
+
+### Traçando $\bar{t}$
+
+Para traçar $\bar{t}$, substituímos os pontos na equação $\{t} = 2\{x}$ e ligamos os pontos correspondentes.
+
+### Traçando $\bar{x}$
+
+Para traçar $\bar{x}$, lembremos que o ângulo formado entre $\{t}$ e $\bar{t}$ é igual ao ângulo entre $\{x}$ e $\bar{x}$, portanto existe uma simetria em torno da linha de universo do fóton inclinada a 45°. 
+
+<p align="center">
+  <img src="eixos-reciprocos.png" alt="A inclinação dos eixos é recíproca — sob o ponto de vista de O e sob o ponto de vista de Ō" width="600">
+</p>
+
+
+Com esta informação somos capazes de traçar $\bar{x}$ uma vez que:
+
+$$\boxed{\tan(\phi) = \frac{CO}{CA}}$$
+
+Assim, se para $\{t}$ = 1 temos x = 0,5; para x = 1 temos t = 0,5.
+
+Observe que os triângulos retângulos são iguais, devido a simetria!
 
 ---
 
