@@ -106,7 +106,7 @@ Imagine um observador $\bar{O}$ viajando a uma velocidade $v$, munido de um rel�
 
 Lembre-se que para  $\bar{O}$ ele está parado e para responder essa pergunta precisamos analisar a sequência de eventos:
 
-1. O viajante $\bar{O}$ dispara um fóton de sua origem no tempo $\bar{t} = -2\text{ m}$ (**Evento $\mathcal{E}$**).
+1. O viajante $\bar{O}$ dispara um fóton de sua origem no tempo $\bar{t} = -2\text{ m}$ (**Evento $\xi$**).
 2. A luz viaja a 45°, bate no espelho do relógio e reflete (**Evento $\mathcal{P}$**).
 3. A luz volta (também a 45°) e é recebida por $\bar{O}$ no tempo $\bar{t} = +2\text{ m}$ (**Evento $\mathcal{R}$**).
 
@@ -152,16 +152,15 @@ Um objeto parado em $x=1\text{ m}$ no referencial de $O$ nunca muda de posição
 
 ### (c) Os eixos de um observador em movimento
 
-<p align="center">
-  <img src="exercicio-1-3-c.png" alt="Exercício 1.3(c) — eixos t-barra e x-barra para v = 0,5" width="300">
-</p>
-
 Aqui aplicamos exatamente a lógica da Seção 4, agora para uma velocidade genérica $v$:
 
 - O eixo $\bar t$ (reta vermelha) é a **linha de universo da origem de $\bar O$**, o caminho do próprio observador em movimento pelo espaço-tempo. Como $\bar O$ se move segundo $x = vt$, isolando $t$ temos $t = x/v$, uma reta com inclinação $(dt/dx = 1/v) = (1/0{,}5 = 2)$. Por isso a reta vermelha é mais "em pé" que a diagonal de 45° do fóton, quanto mais perto $v$ chega de $c$, mais o eixo $\bar t$ se aproxima dessa diagonal, mas nunca a alcança.
   
 - O eixo $\bar x$ (reta roxa) é a **linha de simultaneidade de $\bar O$**, o conjunto de eventos que $\bar O$ considera acontecer no seu "tempo zero" $\bar t = 0$, construído do mesmo jeito que fizemos com o Evento $\mathcal P$ na Seção 4. Essa reta tem inclinação recíproca à do eixo $\bar t$: $dt/dx = v = 0{,}5$.
 
+<p align="center">
+  <img src="exercicio-1-3-c.png" alt="Exercício 1.3(c) — eixos t-barra e x-barra para v = 0,5" width="300">
+</p>
 
 Note que a função que descreve $\bar{t}$ é uma função afim, pois a velocidade é constante:
 
@@ -184,7 +183,7 @@ Para traçar $\bar{t}$, substituímos os pontos na equação $\{t} = 2\{x}$ e li
 Para traçar $\bar{x}$, lembremos que o ângulo formado entre $\{t}$ e $\bar{t}$ é igual ao ângulo entre $\{x}$ e $\bar{x}$, portanto existe uma simetria em torno da linha de universo do fóton inclinada a 45°. 
 
 <p align="center">
-  <img src="eixos-reciprocos.png" alt="A inclinação dos eixos é recíproca — sob o ponto de vista de O e sob o ponto de vista de Ō" width="600">
+  <img src="eixos-reciprocos.png" alt="A inclinação dos eixos é recíproca — sob o ponto de vista de O e sob o ponto de vista de Ō" width="450">
 </p>
 
 
@@ -192,7 +191,7 @@ Com esta informação somos capazes de traçar $\bar{x}$ uma vez que:
 
 $$\boxed{\tan(\phi) = \frac{CO}{CA}}$$
 
-Assim, se para $\{t}$ = 1 temos x = 0,5; para x = 1 temos t = 0,5.
+Assim, para $\{t}$ = 1 temos x = 0,5; para x = 1 temos t = 0,5.
 
 Observe que os triângulos retângulos são iguais, devido a simetria!
 
