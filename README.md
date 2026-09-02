@@ -76,7 +76,7 @@ $$\text{inclinação} = \frac{dt}{dx} = \frac{1}{v}$$
 Como para a luz um metro percorrido equivale a um metro de tempo, sua velocidade permanece adimensional ($c = 1$), e por isso sua inclinação nesse diagrama é sempre de **45°**.
 
 <p align="center">
-  <img src="figura-1-1.gif" alt="Diagrama de espaço-tempo" width="600">
+  <img src="figura-1-1.gif" alt="Diagrama de espaço-tempo" width="500">
 </p>
 
 ---
