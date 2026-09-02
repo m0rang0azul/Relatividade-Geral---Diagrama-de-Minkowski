@@ -136,7 +136,7 @@ Isso prova graficamente a **Relatividade da Simultaneidade**: o que o viajante $
 
 ## 5. Praticando: o Exercício 1.3 de Schutz
 
-Um bom jeito de fixar a construção dos diagramas é resolver um exercício clássico do Capítulo 1 do livro do Schutz: dado um referencial $O$ parado, pede-se para desenhar (a) a linha de universo de um relógio parado em $x=1\text{ m}$; (b) a linha de universo de uma partícula com velocidade $dx/dt = 0{,}1$, que passa por $x=0{,}5\text{ m}$ em $t=0$; e (c) os eixos $\bar t$ e $\bar x$ de um observador $\bar O$ que se move com $v=0{,}5$ na direção $x$ positiva, com origem coincidindo com a de $O$.
+Um bom jeito de fixar a construção dos diagramas é resolver um exercício clássico do Capítulo 1 do livro do Schutz: dado um referencial $O$ parado, pede-se para desenhar (a) a linha de universo de um relógio de  $O$ parado em $x=1\text{ m}$; (c) os eixos $\bar t$ e $\bar x$ de um observador $\bar O$ que se move com $v=0{,}5$ na direção $x$ positiva, com origem coincidindo com a de $O$ ($\bar t$ = $\bar x$ = 0.
 
 Vamos focar nos itens (a) e (c), que ilustram bem a lógica dos diagramas.
 
@@ -146,7 +146,7 @@ Vamos focar nos itens (a) e (c), que ilustram bem a lógica dos diagramas.
   <img src="exercicio-1-3-a.png" alt="Exercício 1.3(a) — linha de universo em x = 1 m" width="300">
 </p>
 
-Um objeto parado em $x=1\text{ m}$ no referencial de $O$ nunca muda de posição espacial — ele só "anda" no tempo. No diagrama isso é simplesmente uma **reta vertical em $x=1$**, paralela ao eixo $t$, para qualquer valor de $t$. É o caso mais simples de linha de universo: velocidade zero corresponde a uma reta vertical (perpendicular ao eixo espacial) neste gráfico, já que aqui o tempo corre na vertical.
+Um objeto parado em $x=1\text{ m}$ no referencial de $O$ nunca muda de posição espacial, ele só "anda" no tempo. No diagrama isso é simplesmente uma **reta vertical em $x=1$**, paralela ao eixo $t$, para qualquer valor de $t$. É o caso mais simples de linha de universo: velocidade zero corresponde a uma reta vertical (perpendicular ao eixo espacial) neste gráfico, já que aqui o tempo corre na vertical.
 
 ### (c) Os eixos de um observador em movimento
 
@@ -156,11 +156,18 @@ Um objeto parado em $x=1\text{ m}$ no referencial de $O$ nunca muda de posição
 
 Aqui aplicamos exatamente a lógica da Seção 4, agora para uma velocidade genérica $v$:
 
-- O eixo $\bar t$ (reta vermelha) é a **linha de universo da origem de $\bar O$** — o caminho do próprio observador em movimento pelo espaço-tempo. Como $\bar O$ se move segundo $x = vt$, isolando $t$ temos $t = x/v$, uma reta com inclinação $dt/dx = 1/v = 1/0{,}5 = 2$. Por isso a reta vermelha é mais "em pé" que a diagonal de 45° do fóton — quanto mais perto $v$ chega de $c$, mais o eixo $\bar t$ se aproxima dessa diagonal, mas nunca a alcança.
+- O eixo $\bar t$ (reta vermelha) é a **linha de universo da origem de $\bar O$**, o caminho do próprio observador em movimento pelo espaço-tempo. Como $\bar O$ se move segundo $x = vt$, isolando $t$ temos $t = x/v$, uma reta com inclinação $(dt/dx = 1/v) = (1/0{,}5 = 2)$. Por isso a reta vermelha é mais "em pé" que a diagonal de 45° do fóton, quanto mais perto $v$ chega de $c$, mais o eixo $\bar t$ se aproxima dessa diagonal, mas nunca a alcança.
 
-- O eixo $\bar x$ (reta roxa) é a **linha de simultaneidade de $\bar O$** — o conjunto de eventos que $\bar O$ considera acontecer no seu "tempo zero" $\bar t = 0$, construído do mesmo jeito que fizemos com o Evento $\mathcal P$ na Seção 4. Essa reta tem inclinação recíproca à do eixo $\bar t$: $dt/dx = v = 0{,}5$.
+- O eixo $\bar x$ (reta roxa) é a **linha de simultaneidade de $\bar O$**, o conjunto de eventos que $\bar O$ considera acontecer no seu "tempo zero" $\bar t = 0$, construído do mesmo jeito que fizemos com o Evento $\mathcal P$ na Seção 4. Essa reta tem inclinação recíproca à do eixo $\bar t$: $dt/dx = v = 0{,}5$.
 
-Repare na simetria: os dois eixos, $\bar t$ e $\bar x$, ficam "espremidos" em torno da diagonal de 45° do fóton, um de cada lado, e nunca cruzam essa diagonal — não importa o valor de $v$. É a mesma relatividade da simultaneidade da Seção 4, só que generalizada: ali vimos o efeito nascer de um caso concreto (o relógio de luz do observador $\bar O$); aqui vemos a regra geral por trás dele.
+Repare na simetria: os dois eixos, $\bar t$ e $\bar x$, ficam "espremidos" em torno da diagonal de 45° do fóton, um de cada lado, e nunca cruzam essa diagonal, não importa o valor de $v$. É a mesma relatividade da simultaneidade da Seção 4, só que generalizada: ali vimos o efeito nascer de um caso concreto (o relógio de luz do observador $\bar O$); aqui vemos a regra geral por trás dele.
+
+---
+
+## Referências
+
+- SCHUTZ, Bernard. *A First Course in General Relativity*. 3ª ed. Cambridge: Cambridge University Press, 2022. — Capítulo 1, Seções 1.4 e 1.5, e Exercício 1.3.
+- Max Planck Institute for Gravitational Physics (Albert Einstein Institute). **From light clocks to time dilation**. Einstein Online. Disponível em: <https://www.einstein-online.info/en/spotlight/light-clocks-time-dilation/>.
 
 ---
 
