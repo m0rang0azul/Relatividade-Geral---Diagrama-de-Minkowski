@@ -139,9 +139,9 @@ Isso prova graficamente a **Relatividade da Simultaneidade**: o que o viajante $
 
 ## 5. Praticando: o Exercício 1.3 do Schutz
 
-Um bom jeito de fixar a construção dos diagramas é resolver um exercício clássico do Capítulo 1 do livro do Schutz: dado um referencial $O$ parado, pede-se para desenhar (a) a linha de universo de um relógio de  $O$ parado em $x=1\text{ m}$; (c) os eixos $\bar t$ e $\bar x$ de um observador $\bar O$ que se move com $v=0{,}5$ na direção $x$ positiva, com origem coincidindo com a de $O$ ($\bar t$ = $\bar x$ = 0.
+Um bom jeito de fixar a construção dos diagramas é resolver um exercício clássico do Capítulo 1 do livro do Schutz: dado um referencial $O$ parado, pede-se para (a) desenhar a linha de universo do relógio de  $O$ em $x=1\text{ m}$; (c) os eixos $\bar t$ e $\bar x$ de um observador $\bar O$ que se move com $v=0{,}5$ na direção $x$ positiva, com origem coincidindo com a de $O$ ($\bar t$ = $\bar x$ = 0.
 
-Vamos focar nos itens (a) e (c), que ilustram bem a lógica dos diagramas.
+Vamos verificar como os ítens (a) e (c) ilustram bem a lógica dos diagramas.
 
 ### (a) A linha de universo de um relógio parado
 
