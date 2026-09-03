@@ -101,7 +101,7 @@ Algumas convenções do Schutz:
 
 ## 4. Como Desenhar o "Agora" de Outro Observador?
 
-Esta é a parte conceitualmente mais profunda — e a que costuma dar o nó na cabeça.
+Esta é a parte conceitualmente mais profunda, é a que costuma dar o nó na cabeça.
 
 Imagine um observador $\bar{O}$ viajando a uma velocidade $v$, munido de um relógio de luz, o observador dispara um fóton do relógio e observa o fóton ser emitido, refletido e coletado. Como devem ser traçados os eventos de emissão, reflexão e recepção do fóton no diagrama espaço-tempo do próprio $\bar{O}$?
 
