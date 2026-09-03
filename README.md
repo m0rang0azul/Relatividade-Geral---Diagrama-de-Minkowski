@@ -177,7 +177,7 @@ $$\boxed{\{t} = 2\{x}}$$
 
 ### Traçando $\bar{t}$
 
-Para traçar $\bar{t}$, substituímos os pontos na equação $\{t} = 2\{x}$ e ligamos os pontos correspondentes.
+Para traçar $\bar{t}$, substituímos os pontos $\{x}$ na equação $\{t} = 2\{x}$ para encontrar o $\{t}$ correspondente. Após, traçamos uma reta para ligar os pontos de cada par $(\{t}, {x})$ encontrado.
 
 ### Traçando $\bar{x}$
 
